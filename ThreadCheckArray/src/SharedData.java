@@ -1,5 +1,6 @@
 public class SharedData 
 {
+	//adar
 	private int [] array;
 	private boolean [] winArray;
 	private boolean flag;
